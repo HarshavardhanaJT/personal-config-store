@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://localhost:1433;databaseName=TestDB
+    url: jdbc:sqlserver://localhost:1433;databaseName=PersonalProjectsDB
     username: sa
     password: H@r$ha@123
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
